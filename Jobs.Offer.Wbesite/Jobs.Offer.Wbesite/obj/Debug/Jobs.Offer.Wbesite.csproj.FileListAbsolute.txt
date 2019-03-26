@@ -1,0 +1,396 @@
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\csc.exe
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\vbc.exe
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Jobs.Offer.Wbesite.dll.config
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Jobs.Offer.Wbesite.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Jobs.Offer.Wbesite.pdb
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Antlr3.Runtime.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.SqlServer.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Newtonsoft.Json.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Owin.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Helpers.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Mvc.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Optimization.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Razor.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Webpages.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Webpages.Razor.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\WebGrease.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Antlr3.Runtime.pdb
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.SqlServer.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Newtonsoft.Json.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Optimization.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Razor.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Webpages.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Webpages.Razor.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Helpers.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Mvc.xml
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.InitialCreate.resources
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.AddColumn.resources
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.AddCategoryTable.resources
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.AddJobsTable.resources
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.ApplyJobs.resources
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.EditJobModel.resources
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.csproj.GenerateResource.Cache
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.dll
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.pdb
+C:\Users\Osama Ahmed\Desktop\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.csprojResolveAssemblyReference.cache
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\csc.exe
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\vbc.exe
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Jobs.Offer.Wbesite.dll.config
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Jobs.Offer.Wbesite.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Jobs.Offer.Wbesite.pdb
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Antlr3.Runtime.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.SqlServer.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Newtonsoft.Json.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Owin.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Helpers.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Mvc.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Optimization.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Razor.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\WebGrease.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Antlr3.Runtime.pdb
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.SqlServer.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Newtonsoft.Json.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Helpers.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Mvc.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Optimization.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Razor.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.csprojResolveAssemblyReference.cache
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.InitialCreate.resources
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.AddColumn.resources
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.AddCategoryTable.resources
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.AddJobsTable.resources
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.ApplyJobs.resources
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.EditJobModel.resources
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.csproj.GenerateResource.Cache
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.dll
+C:\Users\Osama Ahmed\Desktop\job site backup\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.pdb
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\csc.exe
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.Collections.Immutable.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.Reflection.Metadata.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\vbc.exe
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\VBCSCompiler.exe
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\VBCSCompiler.exe.config
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Jobs.Offer.Wbesite.dll.config
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Jobs.Offer.Wbesite.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Jobs.Offer.Wbesite.pdb
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Antlr3.Runtime.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.SqlServer.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Google.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Web.Infrastructure.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Newtonsoft.Json.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Owin.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Helpers.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Mvc.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Optimization.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Razor.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.Deployment.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.Razor.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\WebGrease.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Antlr3.Runtime.pdb
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.SqlServer.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Google.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Newtonsoft.Json.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Helpers.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Mvc.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Optimization.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Razor.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.Deployment.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.Razor.xml
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.csprojResolveAssemblyReference.cache
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.InitialCreate.resources
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.AddColumn.resources
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.AddCategoryTable.resources
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.AddJobsTable.resources
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.ApplyJobs.resources
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.EditJobModel.resources
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.csproj.GenerateResource.Cache
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.pdb
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\csc.exe.config
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\csc.rsp
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\csi.exe
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\csi.rsp
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.AppContext.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.IO.FileSystem.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\vbc.exe.config
+E:\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\vbc.rsp
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Jobs.Offer.Wbesite.dll.config
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Jobs.Offer.Wbesite.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Jobs.Offer.Wbesite.pdb
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\csc.exe
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\csc.exe.config
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\csc.rsp
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\csi.exe
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\csi.rsp
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.AppContext.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.Collections.Immutable.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.IO.FileSystem.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.Reflection.Metadata.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\vbc.exe
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\vbc.exe.config
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\vbc.rsp
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\VBCSCompiler.exe
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\VBCSCompiler.exe.config
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Antlr3.Runtime.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.SqlServer.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Core.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Cookies.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Google.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.OAuth.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Web.Infrastructure.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Newtonsoft.Json.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Owin.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Helpers.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Mvc.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Optimization.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Razor.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.Deployment.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.Razor.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\WebGrease.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Antlr3.Runtime.pdb
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.SqlServer.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Core.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Cookies.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Google.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.OAuth.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Newtonsoft.Json.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Helpers.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Mvc.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Optimization.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Razor.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.Deployment.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.Razor.xml
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.csprojResolveAssemblyReference.cache
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.InitialCreate.resources
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.AddColumn.resources
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.AddCategoryTable.resources
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.AddJobsTable.resources
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.ApplyJobs.resources
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.EditJobModel.resources
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.csproj.GenerateResource.cache
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.csproj.CoreCompileInputs.cache
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.csproj.CopyComplete
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.dll
+F:\css3zero\JobOffers-master\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.pdb
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Jobs.Offer.Wbesite.dll.config
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Jobs.Offer.Wbesite.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Jobs.Offer.Wbesite.pdb
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\csc.exe
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\csc.exe.config
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\csc.rsp
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\csi.exe
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\csi.rsp
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.AppContext.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.Collections.Immutable.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.IO.FileSystem.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\System.Reflection.Metadata.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\vbc.exe
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\vbc.exe.config
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\vbc.rsp
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\VBCSCompiler.exe
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\roslyn\VBCSCompiler.exe.config
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Antlr3.Runtime.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.SqlServer.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Core.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Cookies.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Google.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.OAuth.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Web.Infrastructure.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Newtonsoft.Json.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Owin.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Helpers.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Mvc.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Optimization.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Razor.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.Deployment.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.Razor.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\WebGrease.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Antlr3.Runtime.pdb
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\EntityFramework.SqlServer.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Core.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Cookies.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.Google.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Microsoft.Owin.Security.OAuth.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\Newtonsoft.Json.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Helpers.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Mvc.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Optimization.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.Razor.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.Deployment.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\bin\System.Web.WebPages.Razor.xml
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.csprojResolveAssemblyReference.cache
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.InitialCreate.resources
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.AddColumn.resources
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.AddCategoryTable.resources
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.AddJobsTable.resources
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.ApplyJobs.resources
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.Migrations.EditJobModel.resources
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.csproj.GenerateResource.cache
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.csproj.CoreCompileInputs.cache
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.csproj.CopyComplete
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.dll
+F:\khalidMVCOfferjob\JobOffers-master1\Jobs.Offer.Wbesite\Jobs.Offer.Wbesite\obj\Debug\Jobs.Offer.Wbesite.pdb

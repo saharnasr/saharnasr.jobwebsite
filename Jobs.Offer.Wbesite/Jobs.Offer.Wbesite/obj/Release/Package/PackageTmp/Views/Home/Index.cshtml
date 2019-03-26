@@ -1,0 +1,83 @@
+﻿@model IEnumerable<Jobs.Offer.Wbesite.Models.Category>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<!--Carousel Wrapper-->
+<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
+    <!--Indicators-->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-2" data-slide-to="1"></li>
+        <li data-target="#carousel-example-2" data-slide-to="2"></li>
+    </ol>
+    <!--/.Indicators-->
+    <!--Slides-->
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <div class="view">
+                <img class="d-block w-100 thumbnail" src="~/images/img1.jpg" style="width:1220px; height:483px;" alt="First slide">
+
+            </div>
+            <div class="carousel-caption">
+                <h3 class="h3-responsive">مرحبا بك عزيزى الزائر</h3>
+                <p>مرحبا بك في فضاء البحث عن الوظائف باختلاف أصنافها، يمكنك نشر وظيفة إن كنت ناشرا، ويمكنك التقدم للوظيفة إذا كنت باحثا عن شغل</p>
+            </div>
+        </div>
+        <div class="item">
+            <!--Mask color-->
+            <div class="view">
+                <img class="d-block w-100 thumbnail" src="~/images/img2.jpg" style="width:1220px; height:483px;" alt="Second slide">
+
+            </div>
+            <div class="carousel-caption">
+                <h3 class="h3-responsive">مرحبا بك عزيزى الزائر</h3>
+                <p>مرحبا بك في فضاء البحث عن الوظائف باختلاف أصنافها، يمكنك نشر وظيفة إن كنت ناشرا، ويمكنك التقدم للوظيفة إذا كنت باحثا عن شغل</p>
+            </div>
+        </div>
+        <div class="item">
+            <!--Mask color-->
+            <div class="view">
+                <img class="d-block w-100 thumbnail" src="~/images/img3.jpg" style="width:1220px; height:483px;" alt="Third slide">
+
+            </div>
+            <div class="carousel-caption">
+                <h3 class="h3-responsive">مرحبا بك عزيزى الزائر</h3>
+                <p>مرحبا بك في فضاء البحث عن الوظائف باختلاف أصنافها، يمكنك نشر وظيفة إن كنت ناشرا، ويمكنك التقدم للوظيفة إذا كنت باحثا عن شغل</p>
+            </div>
+        </div>
+    </div>
+    <!--/.Slides-->
+    <!--Controls-->
+    <a class="carousel-control-prev" href="#carousel-example-2" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carousel-example-2" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+    <!--/.Controls-->
+</div>
+<!--/.Carousel Wrapper-->
+<br />
+@foreach (var item in Model)
+{
+    <div class="panel panel-info">
+        <div class="panel-heading"><h1>@Html.DisplayFor(modelItem => item.CategoryName)</h1></div>
+        <div class="row panel-body" style="margin-right:10px; ">
+            <h4>@Html.DisplayFor(modelItem => item.CategoryDescription)</h4>
+            @foreach (var subItem in item.Jobs)
+            {
+                <div class="col-md-3 thumbnail" style="margin-left:20px;margin-bottom:30px; min-height:380px; background-color: #fdf7f7;">
+                    <img src="~/Uploads/@subItem.JobImage" />
+                    <h3>@Html.DisplayFor(modelItem => subItem.JobTitle)</h3>
+                    <h5>@Html.Raw(HttpUtility.HtmlDecode(Html.DisplayFor(modelItem => subItem.JobContent).ToString()))</h5>
+                    @Html.ActionLink("التفاصيل", "Details", new { JobId = subItem.Id }, new { @class = "btn btn-primary" })
+                </div>
+            }
+        </div>
+    </div>
+}
+

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Jobs.Offer.Wbesite.Models.ApplyForJob>
+
+@{
+    ViewBag.Title = "GetJobsByUser";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+    <div class="panel panel-info" style="background-color:#e6ecfb;border-color:#3d727d; padding:1px;">
+
+            <h2>الوظائف التى تقدمت إليها</h2>
+    </div>
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.job.JobTitle)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Message)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ApplyDate)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.job.JobTitle)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Message)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ApplyDate)
+                </td>
+                <td>
+                    @Html.ActionLink("تعديل", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("تفاصيل", "DetailsOfJob", new { id = item.Id }) |
+                    @Html.ActionLink("حذف", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+
+    </table>

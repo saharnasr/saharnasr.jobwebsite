@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Jobs.Offer.Wbesite.Models.JobsViewModel>
+
+
+
+@foreach (var gr in Model)
+{
+    <div class="panel panel-info" style="background-color:#e6ecfb;border-color:#3d727d; padding:1px;">
+
+        <h3>@gr.JobTitle</h3>
+        </div>
+        <table class="table table-bordered table-hover">
+            <tr>
+                <th>
+                    إسم الباحث
+                </th>
+
+                <th>
+                    نص الرسالة
+                </th>
+
+                <th>
+                    تاريخ الإرسال
+                </th>
+            </tr>
+
+            @foreach (var item in gr.Items)
+            {
+                <tr>
+                    <td>
+                        @item.user.UserName
+                    </td>
+
+                    <td>
+                        @item.Message
+                    </td>
+
+                    <td>
+                        @item.ApplyDate
+                    </td>
+                </tr>
+            }
+        </table>
+        }
